@@ -1,0 +1,6 @@
+This is an amazing tool.Here we can create our own repositeries and we can add files to the repositery.
+Here we can work on projects.We can create a subbranches to main branch(default).We can create many subbranches and add files to them.we commit here. we can push all commits to our own subbranches and afterwe can merge them into master branch by pullrequest command.
+
+we can also work with existing repositeries by forking them with our own account.then we can make 
+changes in our own account by create a branches,after we pullrequest the owner of the existing account
+merge our changes to there master account.
